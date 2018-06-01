@@ -1,0 +1,15 @@
+{
+  "name": "pusher-node-test",
+  "version": "1.0.0",
+  "description": "Tests using Pusher with Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "steve@customchannels.net",
+  "license": "ISC",
+  "dependencies": {
+    "pusher-js": "^4.2.2"
+  },
+  "devDependencies": {}
+}
